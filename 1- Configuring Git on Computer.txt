@@ -1,0 +1,9 @@
+git config --global user.name "Taufique Azad"
+
+git config --global user.email "ta5996u@gmail.com"
+
+
+In order to check all set, type:
+
+
+cat ~/.gitconfig
