@@ -1,0 +1,7 @@
+If you want to make directory, 
+
+1. type mkdir test (mkdir file-Name)
+2. cd test/ (cd file name/)
+3. pwd
+
+Then paste the echo code;
