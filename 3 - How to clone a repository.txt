@@ -1,0 +1,14 @@
+git clone (the SSH link)
+
+then type
+
+dir,
+
+then,
+
+cd the folder you want to access,
+
+then, 
+
+
+ls -la.
