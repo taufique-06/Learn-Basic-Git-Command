@@ -1,0 +1,25 @@
+--aIn order to push, you have to go through
+4 different stages
+
+1. unstaged work
+
+2. stage work
+
+3. commit work
+
+4. push work
+
+How to push:
+
+1. type git status
+
+2. git add file name. Example: git add first-push.txt or git add --all
+
+	type again git status
+
+3. git commit -m "write a headline"
+
+4. git push origin master
+
+
+
