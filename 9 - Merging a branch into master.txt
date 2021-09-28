@@ -1,0 +1,27 @@
+Before you start merging,
+
+check are you in the right branch or not.
+
+To check, type,
+
+git branch
+
+if you are in the correct branch then that's fine.
+
+if not, type
+
+git checkout branch name
+
+git branch
+
+Now,
+
+git pull origin master (or git pull origin branch name)
+
+then type,
+
+git merge branch-name (the branch name you want to merge)
+
+Lastly, type
+
+git push origin master
