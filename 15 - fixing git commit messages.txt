@@ -1,0 +1,5 @@
+git commit --amend.
+
+After typing that, vim or code ediotr 
+will open up and then fix the commit
+message.
