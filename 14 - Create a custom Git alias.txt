@@ -1,0 +1,17 @@
+log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(reset) %><(55,trunc)%s%C(red)%d%C(reset) %C(blue)[%an]%C(reset) %C(yellow)%ad%C(reset)%n'
+
+
+In order to create alias,
+
+cat ~/.git config
+
+then 
+
+
+Vim will open up {Note: You can use vs-code or sublime text edior instead of Vim)
+
+In the VIm type,
+
+[alias]
+     
+ lg = log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C(reset) %><(55,trunc)%s%C(red)%d%C(reset) %C(blue)[%an]%C(reset) %C(yellow)%ad%C(reset)%n'
