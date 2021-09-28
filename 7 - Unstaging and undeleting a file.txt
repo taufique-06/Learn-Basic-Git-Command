@@ -1,0 +1,7 @@
+Type for unstaging,
+
+git reset HEAD file name
+
+Type for undeleting,
+
+git checkout -- first-push.txt
