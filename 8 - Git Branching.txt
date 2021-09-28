@@ -1,0 +1,35 @@
+git checkout -b new branch name (Example: git checkout -b new-branch)
+
+then type
+
+git branch.
+
+Now you should have two branch
+
+1. master
+
+2. new-branch
+
+In order to switch the branch,
+
+type,
+
+git checkout master (git checkout file name)
+
+then, 
+
+git branch.
+
+For branching, the process is exactly as same as
+
+the process of pushing.
+
+But when you type for pushing
+
+git push origin master.
+
+But when you have new branch, type branch new instead of master
+
+Example:
+
+git push origin branch-name
