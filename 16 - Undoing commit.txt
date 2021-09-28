@@ -1,0 +1,25 @@
+First type,
+
+git log --oneline.
+
+Then decide where you would like to go or how many commits you wanna undo
+
+**Undoing can be done in two ways:
+
+  1.  Soft Reset
+  2.  Hard Reset
+
+2. Hard Reset will delete your work. 
+In order to do that,
+
+git reset --hard the ID (git reset --hard 45e4595)
+
+
+1. Soft Reset will not delete the file but the commit will be gone
+In order to do that,
+
+git reset --soft origin/master or git reset --soft the ID
+
+
+
+
