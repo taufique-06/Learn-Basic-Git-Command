@@ -1,5 +1,0 @@
-git diff file name (git diff README.md)
-
-
-before typing git diff, type git status to see the status of your file.
-
